@@ -2,7 +2,7 @@
 
 I'm driven by a passion for **Data analysis** and the challenge of transforming raw data into **strategic insights** that drive business decisions. On my GitHub, I’ll be sharing my progress on various **data-focused personal projects** as I continue to develop my skills.
 
-🔗 Check out my latest project: [Commerce-Retail](https://github.com/0xArnaudR/Commerce-Retail)
+🔗 Check out my latest project: [E-Commerce](https://github.com/0xArnaudR/E-Commerce)
 
 🎯 **Current Focus**: Participating in Kaggle competitions and building my own data projects in parallel!
 
